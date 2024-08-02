@@ -1,0 +1,56 @@
+*{
+    font-family: Arial;
+}
+.title{
+    text-align: center;
+}
+
+.input{
+    width: 100%;
+    float: none;
+
+}
+.th{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.tr{
+    text-align: start;
+}
+.table{
+    margin: auto;
+    width: 50%;
+    margin-top: 20px;
+    text-align: center;
+}
+.field{
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+.fieldentro{
+    width: 98%;
+    margin: auto;
+    border-radius: 3px;
+}
+#titulo{
+    text-align: center  ;
+    margin-top: 50px;
+}
+.btn{
+    float: right;
+    color: white;
+    background-color: royalblue;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    transition: 0.3s;
+}
+.btn:hover{
+    background-color: midnightblue;
+    color: white;
+}
+.prioridade{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
